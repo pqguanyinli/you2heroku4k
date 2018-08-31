@@ -7,7 +7,7 @@ $siteName='GuanYouTube-4K';
 
 //youtube API V3 KEY:
 
-$key='AIzaSyARHJJDFtwb5wcnURwwJA3FQRrM16PF27c';
+$key='AIzaSyD0xIQ9RB2Oo7QbazFfgLOgTz-m9HQQlbE';
 
 
 //其他地方不用改。
